@@ -1,0 +1,2 @@
+# Azure-Tokyo-Olympic-DataAnalysis-Complete-DataEngineering-End-to-End-Project
+Designed and implemented a data pipeline to collect, process, and analyze Olympic Games data using Azure Data Services. Utilized Azure Data Factory, Data Lake, and Synapse Analytics for ETL, storage, and processing. Created real-time dashboards with Power BI to visualize key insights. Prioritized scalability, security, and performance optimization.
